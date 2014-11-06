@@ -13,6 +13,20 @@
 		12DB841919CADFBC00E9BEBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12DB841719CADFBC00E9BEBD /* Main.storyboard */; };
 		12DB841B19CADFBC00E9BEBD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12DB841A19CADFBC00E9BEBD /* Images.xcassets */; };
 		12DB842719CADFBD00E9BEBD /* SofiaAnimalsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 12DB842619CADFBD00E9BEBD /* SofiaAnimalsTests.m */; };
+		12DB843119CAE1CA00E9BEBD /* cow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB843019CAE1CA00E9BEBD /* cow.jpg */; };
+		12DB843519CAE1D700E9BEBD /* cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB843419CAE1D700E9BEBD /* cat.jpg */; };
+		12DB843719CAE38300E9BEBD /* dog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB843619CAE38300E9BEBD /* dog.jpg */; };
+		12DB843919CAE50400E9BEBD /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12DB843819CAE50400E9BEBD /* AVFoundation.framework */; };
+		12DB843D19CAEC2A00E9BEBD /* cow.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DB843C19CAEBF000E9BEBD /* cow.m4a */; };
+		12DB844319CB08DA00E9BEBD /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 12DB844219CB08DA00E9BEBD /* ImageViewController.m */; };
+		12DB844B19CB169500E9BEBD /* grillo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB844819CB169500E9BEBD /* grillo.jpg */; };
+		12DB844C19CB169500E9BEBD /* horse.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB844919CB169500E9BEBD /* horse.jpg */; };
+		12DB844D19CB169500E9BEBD /* donkey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 12DB844A19CB169500E9BEBD /* donkey.jpg */; };
+		12DB845219CB192800E9BEBD /* dog.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DB844E19CB178600E9BEBD /* dog.m4a */; };
+		12DB845319CB192900E9BEBD /* donkey.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DB845019CB18A400E9BEBD /* donkey.m4a */; };
+		12DB845419CB192A00E9BEBD /* grillo.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DB845119CB192300E9BEBD /* grillo.m4a */; };
+		12DB845519CB193300E9BEBD /* cat.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DB844F19CB178600E9BEBD /* cat.m4a */; };
+		12DDA4B419CC6F7B00DD7E5D /* horse.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 12DDA4B319CC6F5400DD7E5D /* horse.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +52,21 @@
 		12DB842019CADFBC00E9BEBD /* SofiaAnimalsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SofiaAnimalsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12DB842519CADFBC00E9BEBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		12DB842619CADFBD00E9BEBD /* SofiaAnimalsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SofiaAnimalsTests.m; sourceTree = "<group>"; };
+		12DB843019CAE1CA00E9BEBD /* cow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cow.jpg; path = ../../cow.jpg; sourceTree = "<group>"; };
+		12DB843419CAE1D700E9BEBD /* cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cat.jpg; path = ../../cat.jpg; sourceTree = "<group>"; };
+		12DB843619CAE38300E9BEBD /* dog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = dog.jpg; path = ../../dog.jpg; sourceTree = "<group>"; };
+		12DB843819CAE50400E9BEBD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		12DB843C19CAEBF000E9BEBD /* cow.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = cow.m4a; path = ../../../Downloads/cow.m4a; sourceTree = "<group>"; };
+		12DB844219CB08DA00E9BEBD /* ImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageViewController.m; sourceTree = "<group>"; };
+		12DB844419CB095E00E9BEBD /* ImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageViewController.h; sourceTree = "<group>"; };
+		12DB844819CB169500E9BEBD /* grillo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = grillo.jpg; path = ../../grillo.jpg; sourceTree = "<group>"; };
+		12DB844919CB169500E9BEBD /* horse.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = horse.jpg; path = ../../horse.jpg; sourceTree = "<group>"; };
+		12DB844A19CB169500E9BEBD /* donkey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = donkey.jpg; path = ../../donkey.jpg; sourceTree = "<group>"; };
+		12DB844E19CB178600E9BEBD /* dog.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = dog.m4a; path = ../../../Downloads/dog.m4a; sourceTree = "<group>"; };
+		12DB844F19CB178600E9BEBD /* cat.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = cat.m4a; path = ../../../Downloads/cat.m4a; sourceTree = "<group>"; };
+		12DB845019CB18A400E9BEBD /* donkey.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = donkey.m4a; path = ../../../Downloads/donkey.m4a; sourceTree = "<group>"; };
+		12DB845119CB192300E9BEBD /* grillo.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = grillo.m4a; path = ../../../Downloads/grillo.m4a; sourceTree = "<group>"; };
+		12DDA4B319CC6F5400DD7E5D /* horse.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = horse.m4a; path = ../../../Downloads/horse.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12DB843919CAE50400E9BEBD /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +91,7 @@
 		12DB840119CADFBC00E9BEBD = {
 			isa = PBXGroup;
 			children = (
+				12DB843819CAE50400E9BEBD /* AVFoundation.framework */,
 				12DB840C19CADFBC00E9BEBD /* SofiaAnimals */,
 				12DB842319CADFBC00E9BEBD /* SofiaAnimalsTests */,
 				12DB840B19CADFBC00E9BEBD /* Products */,
@@ -79,6 +110,8 @@
 		12DB840C19CADFBC00E9BEBD /* SofiaAnimals */ = {
 			isa = PBXGroup;
 			children = (
+				12DB844419CB095E00E9BEBD /* ImageViewController.h */,
+				12DB844219CB08DA00E9BEBD /* ImageViewController.m */,
 				12DB841119CADFBC00E9BEBD /* AppDelegate.h */,
 				12DB841219CADFBC00E9BEBD /* AppDelegate.m */,
 				12DB841419CADFBC00E9BEBD /* ViewController.h */,
@@ -93,6 +126,18 @@
 		12DB840D19CADFBC00E9BEBD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				12DDA4B319CC6F5400DD7E5D /* horse.m4a */,
+				12DB845119CB192300E9BEBD /* grillo.m4a */,
+				12DB845019CB18A400E9BEBD /* donkey.m4a */,
+				12DB844E19CB178600E9BEBD /* dog.m4a */,
+				12DB844F19CB178600E9BEBD /* cat.m4a */,
+				12DB844819CB169500E9BEBD /* grillo.jpg */,
+				12DB844919CB169500E9BEBD /* horse.jpg */,
+				12DB844A19CB169500E9BEBD /* donkey.jpg */,
+				12DB843C19CAEBF000E9BEBD /* cow.m4a */,
+				12DB843619CAE38300E9BEBD /* dog.jpg */,
+				12DB843419CAE1D700E9BEBD /* cat.jpg */,
+				12DB843019CAE1CA00E9BEBD /* cow.jpg */,
 				12DB840E19CADFBC00E9BEBD /* Info.plist */,
 				12DB840F19CADFBC00E9BEBD /* main.m */,
 			);
@@ -165,6 +210,11 @@
 				TargetAttributes = {
 					12DB840919CADFBC00E9BEBD = {
 						CreatedOnToolsVersion = 6.0;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					12DB841F19CADFBC00E9BEBD = {
 						CreatedOnToolsVersion = 6.0;
@@ -196,6 +246,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12DB843719CAE38300E9BEBD /* dog.jpg in Resources */,
+				12DB843519CAE1D700E9BEBD /* cat.jpg in Resources */,
+				12DB844B19CB169500E9BEBD /* grillo.jpg in Resources */,
+				12DB845419CB192A00E9BEBD /* grillo.m4a in Resources */,
+				12DB845319CB192900E9BEBD /* donkey.m4a in Resources */,
+				12DB845519CB193300E9BEBD /* cat.m4a in Resources */,
+				12DDA4B419CC6F7B00DD7E5D /* horse.m4a in Resources */,
+				12DB845219CB192800E9BEBD /* dog.m4a in Resources */,
+				12DB843D19CAEC2A00E9BEBD /* cow.m4a in Resources */,
+				12DB844D19CB169500E9BEBD /* donkey.jpg in Resources */,
+				12DB844C19CB169500E9BEBD /* horse.jpg in Resources */,
+				12DB843119CAE1CA00E9BEBD /* cow.jpg in Resources */,
 				12DB841919CADFBC00E9BEBD /* Main.storyboard in Resources */,
 				12DB841B19CADFBC00E9BEBD /* Images.xcassets in Resources */,
 			);
@@ -217,6 +279,7 @@
 			files = (
 				12DB841619CADFBC00E9BEBD /* ViewController.m in Sources */,
 				12DB841319CADFBC00E9BEBD /* AppDelegate.m in Sources */,
+				12DB844319CB08DA00E9BEBD /* ImageViewController.m in Sources */,
 				12DB841019CADFBC00E9BEBD /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -337,6 +400,7 @@
 				INFOPLIST_FILE = SofiaAnimals/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -348,6 +412,7 @@
 				INFOPLIST_FILE = SofiaAnimals/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -404,6 +469,7 @@
 				12DB842C19CADFBD00E9BEBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		12DB842D19CADFBD00E9BEBD /* Build configuration list for PBXNativeTarget "SofiaAnimalsTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +478,7 @@
 				12DB842F19CADFBD00E9BEBD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
